@@ -72,6 +72,12 @@ Configure the HexStrike MCP server in Claude Desktop configuration.
 
 Check whether Claude Desktop can communicate with the HexStrike MCP server.
 
+### Practical Evidence
+
+The Screenshots folder contains evidence of the lab setup,
+MCP server configuration, tool integration, and password
+recovery process.
+
 ### Step 7: Verify John the Ripper
 
 Use Claude to check John the Ripper installation and version.

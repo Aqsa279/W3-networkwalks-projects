@@ -69,7 +69,11 @@ https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 - Verify that the PDF opens successfully.
 
 ## 5. Screenshots
-Screenshots will be added as practical evidence.
+<img width="311" height="415" alt="Screenshot 2026-11-18 104728" src="https://github.com/user-attachments/assets/25a2903d-9f33-49cf-983b-5e6aaa84d1ff" />
+<img width="299" height="392" alt="Screenshot 2026-11-18 105702" src="https://github.com/user-attachments/assets/fc73523f-8db1-48c5-9c80-d957cedd0c73" />
+<img width="306" height="410" alt="Screenshot 2026-11-18 105943" src="https://github.com/user-attachments/assets/a23f1525-d8df-4f74-8934-0cf62bd9a3ee" />
+
+
 
 ## 6. Learning Outcomes
 - Learned how PDF password hashes are extracted.

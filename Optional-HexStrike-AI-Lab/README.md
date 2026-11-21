@@ -96,7 +96,9 @@ Open the authorized PDF using the recovered password.
 
 ## 6. Screenshots
 
-Practical screenshots will be added as evidence.
+<img width="562" height="305" alt="Screenshot 2026-11-19 134910" src="https://github.com/user-attachments/assets/fdb132b6-4944-4f7e-bb23-0593faa0aafb" />
+<img width="959" height="497" alt="Screenshot 2026-11-19 164251" src="https://github.com/user-attachments/assets/291eb1af-beae-460f-847a-552a7b7bc935" />
+
 
 ## 7. Learning Outcomes
 
